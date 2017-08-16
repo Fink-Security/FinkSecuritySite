@@ -14,7 +14,7 @@ body {
 hr {
   border-color: #4285F4;
   border-width: 3px;
-  max-width: 50px;
+  max-width: 50%;
 }
 hr.light {
   border-color: white;
